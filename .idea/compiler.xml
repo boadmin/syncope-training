@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="syncope-common" />
+        <module name="syncope-core" />
+        <module name="syncope-enduser" />
+        <module name="syncope-console" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="syncope-common" target="1.8" />
+      <module name="syncope-console" target="1.8" />
+      <module name="syncope-core" target="1.8" />
+      <module name="syncope-enduser" target="1.8" />
+      <module name="syncope.upec" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="syncope-common" options="-Xlint:unchecked" />
+      <module name="syncope-console" options="-Xlint:unchecked" />
+      <module name="syncope-core" options="-Xlint:unchecked" />
+      <module name="syncope-enduser" options="-Xlint:unchecked" />
+    </option>
+  </component>
+</project>

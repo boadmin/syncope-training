@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/syncope-common.iml" filepath="$PROJECT_DIR$/common/syncope-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/console/syncope-console.iml" filepath="$PROJECT_DIR$/console/syncope-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/syncope-core.iml" filepath="$PROJECT_DIR$/core/syncope-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enduser/syncope-enduser.iml" filepath="$PROJECT_DIR$/enduser/syncope-enduser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syncope.upec.iml" filepath="$PROJECT_DIR$/syncope.upec.iml" />
+    </modules>
+  </component>
+</project>

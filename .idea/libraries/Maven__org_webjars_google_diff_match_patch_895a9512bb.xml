@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.webjars:google-diff-match-patch:895a9512bb">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/google-diff-match-patch/895a9512bb/google-diff-match-patch-895a9512bb.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/google-diff-match-patch/895a9512bb/google-diff-match-patch-895a9512bb-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/google-diff-match-patch/895a9512bb/google-diff-match-patch-895a9512bb-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
